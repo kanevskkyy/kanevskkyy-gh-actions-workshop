@@ -18,3 +18,5 @@ root.render(
     <App />
   </React.StrictMode>
 );
+
+// test coverage trigger
